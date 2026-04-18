@@ -45,7 +45,7 @@ repo에도 아카이브합니다.
 
 ### 4. Slack 포스팅
 
-아래 포맷으로 #ai-security-digest 에 포스팅:
+아래 포맷으로 U0A8M783MD5 에 DM:
 
 ```
 *🛡 AI Security Digest — YYYY년 MM월 DD일*
